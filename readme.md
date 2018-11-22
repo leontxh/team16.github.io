@@ -10,8 +10,20 @@ Requisites are:
 
 Steps for installing the VR Project
 1) Go to https://e-cyclevr.github.io.
-2) Download or clone the file to local computer htdocs file
-3) Run the file in localhost format, ensure that the index.html is running correctly
+2) Use a VR headset for maximum compatibility
+
+Alternative:
+1) Run XAMPP
+2) Download or clone the file to local computer XAMPP/htdocs folder
+3) Run the file in 127.0.0.1, ensure that the index.html is running correctly
+
+How to edit the environment settings in the VR application so that users can adapt to different cycling environments.
+
+1. Start application using Google Chrome.
+2. Point the cursor to the login button.
+3. Point the cursor to login.
+4. The username for admin rights: admin and the password would be: password
+5. Point the cursor to each radio button in the designer settings page to achieve desired environment.
 
 How does the game promote safe cycling habits
 1. A cyclist has encountered a recent accident on PIE.
@@ -21,9 +33,3 @@ How does the game promote safe cycling habits
 5. The cyclist learns about safe cycling by practising cycling on the application.
 6. The application prompts the cyclist about safety hazards being experienced.
 7. The application also tells the cyclists the mistakes made that potentially causes an accident.
-
-How to edit the environment settings in the VR application so that users can adapt to different cycling environments.
-1. Start application using Google Chrome.
-2. Point the cursor to the login button.
-3. Point the cursor to login.
-4. Point the cursor to each radio button in the designer settings page to achieve desired environment.
