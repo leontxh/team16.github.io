@@ -1,0 +1,4 @@
+1. Start application using Google Chrome.
+2. Point the cursor to the login button.
+3. Point the cursor to login.
+4. Point the cursor to each radio button in the designer settings page to achieve desired environment.
